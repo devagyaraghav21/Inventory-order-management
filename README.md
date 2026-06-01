@@ -8,17 +8,17 @@ A full-stack web application for managing **products**, **customers**, **orders*
 
 | Service   | URL |
 |-----------|-----|
-| Frontend  | [https://ioms.vercel.app](https://ioms.vercel.app) *(update after deploy)* |
-| Backend   | [https://ioms-api.onrender.com](https://ioms-api.onrender.com) *(update after deploy)* |
-| API Docs  | [https://ioms-api.onrender.com/api/docs](https://ioms-api.onrender.com/api/docs) |
+| Frontend  | https://inventory-order-management-snowy.vercel.app/ (https://inventory-order-management-snowy.vercel.app/)
+| Backend   | https://inventory-order-management-m68a.onrender.com/ (https://inventory-order-management-m68a.onrender.com/)
+| API Docs  | https://inventory-order-management-m68a.onrender.com/api/docs (https://inventory-order-management-m68a.onrender.com/api/docs)
 
 ---
 
 ## 🐳 Docker Image
 
 ```bash
-docker pull yourusername/ioms-backend
-docker pull yourusername/ioms-frontend
+https://hub.docker.com/r/devagyaraghav/inventory-order-management-frontend (https://hub.docker.com/r/devagyaraghav/inventory-order-management-frontend)
+https://hub.docker.com/r/devagyaraghav/inventory-order-management-backend (https://hub.docker.com/r/devagyaraghav/inventory-order-management-backend)
 ```
 
 ---
