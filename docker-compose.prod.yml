@@ -1,0 +1,21 @@
+version: "3.9"
+
+# Production overrides — use with:
+# docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+
+services:
+  db:
+    restart: always
+    ports: []   # Don't expose DB port in production
+
+  backend:
+    restart: always
+    volumes: []  # No bind mount in prod
+    environment:
+      ENVIRONMENT: production
+
+  frontend:
+    restart: always
+    build:
+      args:
+        VITE_API_URL: ${VITE_API_URL}
