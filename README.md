@@ -8,18 +8,18 @@ A full-stack web application for managing **products**, **customers**, **orders*
 
 | Service   | URL |
 |-----------|-----|
-| Frontend  | https://inventory-order-management-snowy.vercel.app/ (https://inventory-order-management-snowy.vercel.app/)
-| Backend   | https://inventory-order-management-m68a.onrender.com/ (https://inventory-order-management-m68a.onrender.com/)
-| API Docs  | https://inventory-order-management-m68a.onrender.com/api/docs (https://inventory-order-management-m68a.onrender.com/api/docs)
+| Frontend  | https://inventory-order-management-snowy.vercel.app/ 
+| Backend   | https://inventory-order-management-m68a.onrender.com/ 
+| API Docs  | https://inventory-order-management-m68a.onrender.com/api/docs
 
 ---
 
 ## 🐳 Docker Image
 
-```bash
-https://hub.docker.com/r/devagyaraghav/inventory-order-management-frontend (https://hub.docker.com/r/devagyaraghav/inventory-order-management-frontend)
-https://hub.docker.com/r/devagyaraghav/inventory-order-management-backend (https://hub.docker.com/r/devagyaraghav/inventory-order-management-backend)
-```
+
+* https://hub.docker.com/r/devagyaraghav/inventory-order-management-frontend
+* https://hub.docker.com/r/devagyaraghav/inventory-order-management-backend
+
 
 ---
 
